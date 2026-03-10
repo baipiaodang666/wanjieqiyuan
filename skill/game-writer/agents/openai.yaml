@@ -1,0 +1,5 @@
+version: 1
+interface:
+  display_name: "番茄游戏爽文写手"
+  short_description: "生成番茄风格的游戏全民穿越爽文大纲、角色卡、数值面板与章节正文"
+  default_prompt: "根据世界设定、角色设定和当前任务，直接输出适合番茄小说平台的中文网文内容。"
